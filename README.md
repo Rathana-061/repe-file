@@ -44,3 +44,9 @@ normal text
 3. List 3
     1. sub 1
     2. sub 2
+
+## Image
+![Picture](abc.png)
+
+## Link
+CSS Framework [Bootstrap](https://getbootstrap.com/)
