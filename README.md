@@ -43,4 +43,4 @@ normal text
 2. List 2
 3. List 3
     1. sub 1
-    2.sub 2
+    2. sub 2
