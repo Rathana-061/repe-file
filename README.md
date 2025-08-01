@@ -71,3 +71,7 @@ composer install
 
 ## Button
 <a href="https://getbootstrap.com/" target="_blank">Picture</a>
+
+## Badge
+
+[![app](https://img.shields.io/badge/Learning_Markdown-tutorial-orange)](https://getbootstrap.com/)
